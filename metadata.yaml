@@ -1,0 +1,42 @@
+_repo: Selections-from-Poe_8893
+contributor:
+  creator:
+    editor:
+      agent_name: Gambrill, J. Montgomery (John Montgomery)
+      alias: Gambrill, John Montgomery
+      birthdate: 1880
+      deathdate: 1953
+      gutenberg_agent_id: '2919'
+      url: http://www.gutenberg.org/2009/agents/2919
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'Fantasy poetry, American'
+tableOfContents: 'Poems: Song. Spirits of the dead. To ----. Romance. To the River.
+  To science. To Helen. Israfel. The city in the sea. The sleeper. Lenore. The valley
+  of unrest. The coliseum. Hymn. To one in paradise. To F----. To F----s S. O----d.
+  To Zante. Bridal ballad. Silence. The conqueror worm. Dream-land. The raven. Eulalie.
+  To M. L. S----. Ulalume. To ---- ----. An enigma. To Helen. A valentine. For Annie.
+  The bells. Annabel Lee. To my mother. Eldorado. The haunted palace -- Tales: The
+  fall of the House of Usher. William Wilson. A descent into the maelström. The masque
+  of the red death. The gold-bug. The purloined letter.'
+title: Selections from Poe
+url: http://www.gutenberg.org/ebooks/8893
